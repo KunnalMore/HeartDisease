@@ -7,7 +7,7 @@ Built with Streamlit and a trained KNN model.
 ---
 
 ## 🚀 Live Demo
-(Add your Streamlit Cloud link here after deployment)
+https://wduua9rutv6a3fosuktf6n.streamlit.app
 
 ---
 
